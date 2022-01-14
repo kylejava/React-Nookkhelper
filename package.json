@@ -9,7 +9,8 @@
     "react-bootstrap": "2.1.0",
     "react-grid": "4.0.4",
     "react-scripts": "4.0.0",
-    "react-ui-cards": "3.0.0"
+    "react-ui-cards": "3.0.0",
+    "serve": "^13.0.2"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
